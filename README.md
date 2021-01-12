@@ -1,3 +1,5 @@
 # hello-world
-Just another repository
-Hospitality Manager
+  
+Hello 
+Just a hospitality manager ready
+for a career change in 2021.
